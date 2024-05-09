@@ -5,6 +5,8 @@ to init the database
 
 * To change the port/ database server ip/ db password etc use the yonaConf.json file
 
+* I used web.postman.co to send the request but any frontend app will be able to do the same just need to adjust this server's ip
+
 To run the server use:
     node main.js
 
