@@ -1,0 +1,18 @@
+{
+    "webserver":
+    {
+        "port": 80
+    },
+
+    "mysql":
+    {
+        "host": "127.0.0.1",
+        "database": "yonadatabase",
+        "user": "root",
+        "password": "nash3227",
+        "port": 3306,
+        "connection_limit": 10,
+        "acquire_timeout": 1800000,
+        "convert_to_number": true
+    }
+}
